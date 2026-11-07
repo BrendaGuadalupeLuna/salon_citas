@@ -21,3 +21,4 @@ android/key.properties
 zalon/
 lib/firebase_options.dart
 firebase.json
+.firebase/

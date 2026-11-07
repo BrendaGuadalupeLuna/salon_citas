@@ -74,7 +74,7 @@ flutter build web
 firebase init hosting           # public dir: build/web, SPA: yes
 firebase deploy
 ```
-La URL queda como `https://TU-PROYECTO.web.app`.
+La URL queda como `https://belleza-a5fef.web.app`.
 
 ## Evidencias a entregar
 - Capturas de Firestore (colección `citas`) mostrando tu proyecto y los documentos.
